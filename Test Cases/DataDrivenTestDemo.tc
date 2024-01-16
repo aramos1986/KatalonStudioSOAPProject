@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTestDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>888801dc-c863-4003-9201-1a8131c78191</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>133eacc4-5a49-49a7-83e7-b57d761e1d39</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33200c9e-2da6-45f1-8d0f-dc17f90e1f53</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6cefcc9e-1ddb-4454-9944-cc5e1a52ef70</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'IN'</defaultValue>
+      <description></description>
+      <id>133eacc4-5a49-49a7-83e7-b57d761e1d39</id>
+      <masked>false</masked>
+      <name>CountryCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'New Delhi'</defaultValue>
+      <description></description>
+      <id>33200c9e-2da6-45f1-8d0f-dc17f90e1f53</id>
+      <masked>false</masked>
+      <name>Capital</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rupees'</defaultValue>
+      <description></description>
+      <id>6cefcc9e-1ddb-4454-9944-cc5e1a52ef70</id>
+      <masked>false</masked>
+      <name>Currency1</name>
+   </variable>
+</TestCaseEntity>
